@@ -1,0 +1,13 @@
+Santa Rosa,Tres Passos;Cerro Largo;Santo Angelo;Ijui;,116;55.8;56;99.6;,0;0;0;0;
+Tres Passos,Santa Rosa;Ijui;Frederico Westphalen;,115;123;80.8;,0;0;0;
+Frederico Westphalen,Tres Passos;Erechim;Ijui;Carazinho;Passo Fundo;,81.9;170;170;145;186;,0;0;0;0;4.90;
+Erechim,Frederico Westphalen;Sananduva;Passo Fundo;,150;79.7;81.7;,0;0;0;
+Sananduva,Erechim;Passo Fundo;,80;91.2;,0;0;
+Cerro Largo,Santa Rosa;Santo Angelo;,55.5;60.8;,0;0;
+Santo Angelo,Santa Rosa;Cerro Largo;Ijui;Cruz Alta;,56.3;60.9;49.7;86.1;,0;4.90;0;0;
+Ijui,Santa Rosa;Tres Passos;Frederico Westphalen;Santo Angelo;Carazinho;Cruz Alta;,99.8;122;170;45.2;126;46.3;,0;0;0;0;0;0;
+Carazinho,Frederico Westphalen;Ijui;Passo Fundo;Cruz Alta;Nao Me Toque;,145;124;47.5;101;23;,0;0;4.90;0;0;
+Passo Fundo,Frederico Westphalen;Erechim;Sananduva;Carazinho;Nao Me Toque;Soledade;,185;81.3;90.3;47.1;65.8;76.5;,4.90;4.90;4.90;4.90;4.90;0;
+Cruz Alta,Santo Angelo;Ijui;Carazinho;Nao Me Toque;Soledade;,86.1;45.4;101;100;129;,0;0;0;0;0;
+Nao Me Toque,Carazinho;Passo Fundo;Cruz Alta;Soledade;,22.6;65.2;101;67.1;,0;4.90;0;0;
+Soledade,Passo Fundo;Cruz Alta;Nao Me Toque;,76.3;129;64.5;,0;0;4.90;
